@@ -1,6 +1,7 @@
-# Learning (HTML - CSS)
-Description: Following youtube course
+# Learning to Code
+Description: Following youtube courses and Online Certification Courses
 
-YouTube Channel: SuperSimpleDev
+# HTML - CSS
+1. YouTube Channel: SuperSimpleDev
 
-Link: https://youtube.com/@supersimpledev?si=InvDoapFexogTnd4 
+   Link: https://youtube.com/@supersimpledev?si=InvDoapFexogTnd4 
