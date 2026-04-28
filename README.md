@@ -1,5 +1,7 @@
 # Learning to Code
-Description: My journey on learning how to code.
+In this repository, here you will see my learning path in coding.
+
+follow it as you like. improve, copy or add more for your own benefit.
              
 # HTML - CSS
 1. YouTube Channel: SuperSimpleDev
