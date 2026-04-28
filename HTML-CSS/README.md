@@ -1,4 +1,4 @@
-# Learning (HTML - CSS)
+# HTML - CSS
 
 YouTube Channel: SuperSimpleDev
 
